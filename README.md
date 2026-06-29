@@ -42,5 +42,5 @@ git commit -m "updated README.md"
 ```bash
 git remote add origin https://github.com/Muragunde/winequality_project.git
 git branch -M main
- git push -u origin main
+git push -u origin main
  ```
