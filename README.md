@@ -26,10 +26,21 @@ conda install -c conda-forge dvc
 dvc init
 ```
 
+git adding all
 ```bash
 git add .
 ```
-
+git commiting changes here
 ```bash
 git commit -m "first commit"
 ```
+update for readme file
+```bash
+git commit -m "updated README.md"
+```
+
+```bash
+git remote add origin https://github.com/Muragunde/winequality_project.git
+git branch -M main
+ git push -u origin main
+ ```
